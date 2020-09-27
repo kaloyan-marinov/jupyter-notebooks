@@ -1,3 +1,5 @@
 venv
 
 *-checkpoint.ipynb
+
+.DS_Store
